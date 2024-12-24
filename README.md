@@ -15,8 +15,8 @@ In order to run the files successfully at your platform, one would need to downl
 
 Later, corresponding to each of the files "server.cpp" and "client.cpp" firstly one would need to run the following compilation commands respectively-
 
-- ### g++ -o server server.cpp
-- ### g++ -o client client.cpp
+- g++ -o server server.cpp
+- g++ -o client client.cpp
   
 Further, the commands-
 
