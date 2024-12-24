@@ -28,7 +28,7 @@ are needed to be run in separate terminals in order to see a client-server conve
 ## FILES:
 
 - ### Assignment-2 recording:
-- 
+  
   - The recording contains a demo-conversation between the server and client set up
   - For clear execution of your code, kindly follow the steps as shown in the video
   - Also, the content in the "chat_history" is present as per the updations made during the video
