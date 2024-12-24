@@ -28,17 +28,14 @@ are needed to be run in separate terminals in order to see a client-server conve
 ## FILES:
 
 - ### Assignment-2 recording:
+- 
   - The recording contains a demo-conversation between the server and client set up
-  
   - For clear execution of your code, kindly follow the steps as shown in the video
-  
   - Also, the content in the "chat_history" is present as per the updations made during the video
   
 - ### server.cpp:
   - The file contains code corresponding to the connections from the server's perspective
-  
   - This includes writing its part of the conversation in the chat_history file as well
-  
   - The compilation command for execution of the files is also given at the bottom of the code in a commented format for easy execution
 
 - ### client.cpp:
@@ -48,5 +45,4 @@ are needed to be run in separate terminals in order to see a client-server conve
 
 - ### chat_history:
   - It contains the history of the demo chat covered in the video, for clearer reference
-  
   - Kindly clear the chat before execution for visibility of clear results
